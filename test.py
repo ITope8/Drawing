@@ -1,3 +1,4 @@
-from Drawing import colors,shapes
-colors.red()
-shapes.oval()
+from Drawing import oval,red,pencil
+red()
+oval()
+pencil()
